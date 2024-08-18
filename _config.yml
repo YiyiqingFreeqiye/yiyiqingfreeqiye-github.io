@@ -12,11 +12,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   We’re creating a space for energetic, powerful, and democratic unions to win struggles and grow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://team.yiyiqingfreeqiye.com"
-discord_link: https://discord.gg/KxC96yY
-forum_link: https://discourse.wobbly.app/
-wiki_link: https://wiki.wobbly.app/
-github_link: https://github.com/Wobbly-App
-donate_link: https://opencollective.com/wobbly
+# discord_link: https://discord.gg/KxC96yY
+# forum_link: https://discourse.wobbly.app/
+# wiki_link: https://wiki.wobbly.app/
+# github_link: https://github.com/Wobbly-App
+# donate_link: https://opencollective.com/wobbly
 
 include:
   - .well-known
